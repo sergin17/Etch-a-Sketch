@@ -1,0 +1,22 @@
+.body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 960px;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 960px;
+    margin: 0 auto;
+}
+
+.square {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+
