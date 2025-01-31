@@ -7,16 +7,16 @@
 
 .container {
     width: 960px;
+    display: flex;
     flex-wrap: wrap;
     align-items: center;
+    justify-content: center;
     height: 960px;
     margin: 0 auto;
 }
 
 .square {
-    width: 30px;
-    height: 30px;
-    border: 1px solid #fff;
+    border: 1px solid #535353;
     background-color: #fff;
 }
 
